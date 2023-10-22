@@ -1,6 +1,8 @@
 # React Web Calculator
 
 This repository contains a web calculator developed in React, allowing users to perform basic mathematical operations. The application features an intuitive user interface with numeric buttons and operators, providing real-time results on the display.
+## Screenshots and Demo
+[![Ver video](https://img.youtube.com/vi/P2EyDubXLiU/maxresdefault.jpg)](https://youtu.be/P2EyDubXLiU)
 
 ## Features
 - Performs addition, subtraction, multiplication, and division operations.
@@ -11,8 +13,7 @@ This repository contains a web calculator developed in React, allowing users to 
 - React.js
 - Math.js (used for evaluating mathematical expressions)
 
-## Screenshots and Demo
-[![Ver video](https://img.youtube.com/vi/ZS6XKohoRTI/maxresdefault.jpg)](https://youtu.be/P2EyDubXLiU)
+
 
 
 ## Usage
